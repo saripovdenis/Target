@@ -14,6 +14,7 @@
       "@/*": ["*"],
       "@tools/*": ["tools/*"],
       "@containers/*": ["containers/*"],
+      "@styles/*": ["styles/*"]
     }
   },
   "ts-node": {
